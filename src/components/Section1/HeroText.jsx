@@ -11,7 +11,7 @@ const HeroText = () => {
         </span>{" "}
         <br /> To Collab With
       </h1>
-      <p className="text-xl font-medium  text-gray-500">
+      <p className="text-xl w-[90%] font-medium  text-gray-500">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex aspernatur
         pariatur voluptatem natus, autem excepturi quisquam, officiis optio,
         doloribus cumque id corporis accusantium esse consequuntur?
